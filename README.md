@@ -1,6 +1,6 @@
 # Star Wars Galaxy Map
 
-Interactive map inspired by the [official Star Wars galaxy map](https://www.starwars.com/star-wars-galaxy-map). Pan and zoom to explore notable systems. It’s pretty cool.
+Interactive map inspired by the [official Star Wars galaxy map](https://www.starwars.com/star-wars-galaxy-map). Pan and zoom to explore notable systems. It’s pretty cool. Tada! 
 
 ## Usage
 
