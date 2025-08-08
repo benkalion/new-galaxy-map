@@ -1,0 +1,17 @@
+[
+  {"name": "Coruscant", "x": 1000, "y": 600},
+  {"name": "Tatooine", "x": 650, "y": 800},
+  {"name": "Naboo", "x": 1100, "y": 700},
+  {"name": "Dagobah", "x": 850, "y": 950},
+  {"name": "Bespin", "x": 600, "y": 500},
+  {"name": "Hoth", "x": 650, "y": 300},
+  {"name": "Endor", "x": 1250, "y": 400},
+  {"name": "Mustafar", "x": 750, "y": 850},
+  {"name": "Kashyyyk", "x": 1350, "y": 720},
+  {"name": "Alderaan", "x": 950, "y": 550},
+  {"name": "Geonosis", "x": 720, "y": 700},
+  {"name": "Kamino", "x": 1550, "y": 900},
+  {"name": "Jakku", "x": 500, "y": 700},
+  {"name": "Lothal", "x": 1450, "y": 600},
+  {"name": "Yavin", "x": 900, "y": 350}
+]
